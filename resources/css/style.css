@@ -38,5 +38,7 @@ body{
 .Foot{
     text-align: right;
     color: gray;
+    font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
