@@ -12,24 +12,30 @@ body{
     text-align: center;
 }
 
-#Download{
+.Download{
     color: aquamarine;
     font-size: 16px;
 }
 
-p {
+.sub-header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray
 }
 
-.Travel, .End{
+.Travel {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight:300;
     font-size: 42px;
-    color: white;
+    color: #ffffff;
 }
 
+.End{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:300;
+    font-size: 21px;
+    color: #ffffff;
+}
 .Foot{
     text-align: right;
     color: gray;
